@@ -5,4 +5,6 @@ print("Antras pakeitimas app.py")
 
 print("Kito zmogaus pakeitimas")
 
+
+print("Trecias pakeitimas app.py")
 # ctrl + shift + p
