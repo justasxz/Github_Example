@@ -1,1 +1,1 @@
-print("Dar kazkas deve")
+print("Dar kazkas deve.")
