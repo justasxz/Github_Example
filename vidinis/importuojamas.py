@@ -1,0 +1,1 @@
+print("Dar kazkas deve.")

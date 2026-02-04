@@ -8,4 +8,6 @@ print("Kito zmogaus pakeitimas")
 print("Mano pakeitimas per website")
 
 print("Trecias pakeitimas app.py")
+
+print("Dev sakos pakeitimas")
 # ctrl + shift + p
